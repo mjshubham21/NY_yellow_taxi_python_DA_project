@@ -35,7 +35,9 @@ Analysis was performed using:
 ## 📁 Dataset
 
 All analysis was based on the following dataset:  
-🔗 [NYC Yellow Taxi Trip Records (Parquet)](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-02.parquet)  
+🔗 [NYC Yellow Taxi Trip Records (Parquet)](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2025-02.parquet)
+🔗 [NYC Yellow Taxi Trip Records All Datasets](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+
 
 > **Note:** The dataset was originally provided in `.parquet` format by the NYC Taxi & Limousine Commission.  
 > For this project, it was **converted to `.csv` format online** and then saved locally as an Excel file for ease of analysis.
